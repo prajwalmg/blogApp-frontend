@@ -1,5 +1,5 @@
 import React, { useContext, useState } from "react";
-import axiosInstance from "../../config";
+import {axiosInstance} from "../../config";
 
 // import writeImage from "../../assets/pexels-pixabay-267355.jpg";
 import { Context } from "../../context/Context";
