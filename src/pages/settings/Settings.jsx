@@ -1,5 +1,5 @@
 import React, { useContext, useState } from "react";
-import axiosInstance, { PF } from "../../config";
+import { axiosInstance, PF } from "../../config";
 
 import Sidebar from "../../components/sidebar/Sidebar";
 import "./settings.css";
